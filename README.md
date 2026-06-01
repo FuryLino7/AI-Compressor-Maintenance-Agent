@@ -7,7 +7,7 @@ This project is a predictive maintenance prototype for asset-intensive industrie
 ## Demo Scenario
 
 | Asset | Scenario | Risk Level | Estimated Impact |
-
+|---|---|---|---:|
 | COMP-01 | Bearing degradation / lubrication issue | Critical | €54,000 |
 | COMP-02 | Normal operation | Low | €0 |
 | COMP-03 | Air leak / pressure loss | High | €36,000 |
