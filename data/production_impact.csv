@@ -1,0 +1,5 @@
+asset_id,connected_process,production_dependency,estimated_downtime_cost_eur_per_hour,sla_impact
+COMP-01,Packaging Line 2,High,4500,High
+COMP-02,Packaging Line 2,Medium,2200,Medium
+COMP-03,Plant Utilities,High,6000,High
+COMP-04,Assembly Line 1,Medium,3000,Medium

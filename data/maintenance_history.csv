@@ -1,0 +1,6 @@
+work_order_id,asset_id,date,maintenance_type,issue_found,downtime_hours,cost_eur
+WO-1042,COMP-01,2026-03-15,Preventive,Oil filter replacement,2.0,850
+WO-1098,COMP-01,2026-04-20,Corrective,Bearing inspection,5.0,2400
+WO-1110,COMP-02,2026-04-25,Preventive,General inspection,1.5,600
+WO-1132,COMP-03,2026-05-02,Corrective,Pressure control valve inspection,4.0,1800
+WO-1150,COMP-04,2026-04-12,Preventive,Cooling system cleaning,2.5,1200

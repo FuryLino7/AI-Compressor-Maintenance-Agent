@@ -1,0 +1,5 @@
+asset_id,asset_name,asset_type,plant,location,criticality,manufacturer,installation_year
+COMP-01,Main Air Compressor 1,Industrial Air Compressor,Plant A,Packaging Line 2,High,Atlas Copco,2019
+COMP-02,Backup Air Compressor 2,Industrial Air Compressor,Plant A,Packaging Line 2,Medium,Kaeser,2021
+COMP-03,Utility Compressor 3,Industrial Air Compressor,Plant B,Utilities Area,High,Ingersoll Rand,2018
+COMP-04,Assembly Compressor 4,Industrial Air Compressor,Plant A,Assembly Line 1,Medium,Atlas Copco,2020
